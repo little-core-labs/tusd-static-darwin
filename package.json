@@ -1,0 +1,32 @@
+{
+  "name": "tusd-static-darwin",
+  "version": "1.0.0",
+  "description": "Static binaries for the `tusd(1)` command on Darwin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/tusd-static-darwin.git"
+  },
+  "keywords": [
+    "tusd",
+    "static",
+    "binary",
+    "darwin",
+    "bin",
+    "command",
+    "tus"
+  ],
+  "author": "Joseph Werle <werle@littlestar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/little-core-labs/tusd-static-darwin/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/tusd-static-darwin#readme",
+  "devDependencies": {
+    "tape": "^4.13.2"
+  },
+  "dependencies": {}
+}
