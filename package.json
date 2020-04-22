@@ -1,6 +1,6 @@
 {
   "name": "tusd-static-darwin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Static binaries for the `tusd(1)` command on Darwin.",
   "main": "index.js",
   "scripts": {
