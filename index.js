@@ -1,6 +1,7 @@
 const path = require('path')
 
 /**
+ * The `tusd` command file name.
  * @private
  */
 const TUSD_COMMAND = 'tusd'
