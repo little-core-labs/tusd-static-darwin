@@ -14,7 +14,7 @@ $ npm install tusd-static-darwin
 ```js
 const tusd = require('tusd-static-darwin')
 console.log(tusd.path)
-// '/home/werle/repos/little-core-labs/tusd-static-darwin/bin/darwin/x64/tusd'
+// '/home/werle/repos/little-core-labs/tusd-static-darwin/bin/x64/tusd'
 ```
 
 ## See Also
